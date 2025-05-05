@@ -83,7 +83,7 @@
             // 
             // pnlcourse
             // 
-            this.pnlcourse.BackgroundImage = global::Ybanez_Array.Properties.Resources.pngtree_simple_background_of_multiple_color_gradient_app_interface_materials_png_image_392301;
+            
             this.pnlcourse.Controls.Add(this.lblBeed);
             this.pnlcourse.Controls.Add(this.lblCourse);
             this.pnlcourse.Controls.Add(this.lblBsit);
@@ -151,7 +151,7 @@
             // 
             // pnlhobbies
             // 
-            this.pnlhobbies.BackgroundImage = global::Ybanez_Array.Properties.Resources.pngtree_simple_background_of_multiple_color_gradient_app_interface_materials_png_image_392301;
+            
             this.pnlhobbies.Controls.Add(this.lblNumSoccer);
             this.pnlhobbies.Controls.Add(this.lblSoccer);
             this.pnlhobbies.Controls.Add(this.lblBasketball);
@@ -243,7 +243,7 @@
             // 
             // pnlcolor
             // 
-            this.pnlcolor.BackgroundImage = global::Ybanez_Array.Properties.Resources.pngtree_simple_background_of_multiple_color_gradient_app_interface_materials_png_image_392301;
+            
             this.pnlcolor.Controls.Add(this.lblNumRed);
             this.pnlcolor.Controls.Add(this.lblRed);
             this.pnlcolor.Controls.Add(this.lblBlue);
@@ -335,7 +335,7 @@
             // 
             // pnlgender
             // 
-            this.pnlgender.BackgroundImage = global::Ybanez_Array.Properties.Resources.pngtree_simple_background_of_multiple_color_gradient_app_interface_materials_png_image_392301;
+           
             this.pnlgender.Controls.Add(this.lblNumFemale);
             this.pnlgender.Controls.Add(this.label2);
             this.pnlgender.Controls.Add(this.lblMale);
@@ -403,7 +403,7 @@
             // 
             // pnlinactivestudent
             // 
-            this.pnlinactivestudent.BackgroundImage = global::Ybanez_Array.Properties.Resources.pngtree_simple_background_of_multiple_color_gradient_app_interface_materials_png_image_392301;
+            
             this.pnlinactivestudent.Controls.Add(this.lblNumInactive);
             this.pnlinactivestudent.Controls.Add(this.lblInactive);
             this.pnlinactivestudent.Location = new System.Drawing.Point(395, 18);
@@ -435,7 +435,7 @@
             // 
             // pnlactivestudent
             // 
-            this.pnlactivestudent.BackgroundImage = global::Ybanez_Array.Properties.Resources.pngtree_simple_background_of_multiple_color_gradient_app_interface_materials_png_image_392301;
+           
             this.pnlactivestudent.Controls.Add(this.lblNumActive);
             this.pnlactivestudent.Controls.Add(this.lblActive);
             this.pnlactivestudent.Location = new System.Drawing.Point(220, 18);
